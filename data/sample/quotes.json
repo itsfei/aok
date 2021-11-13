@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "juG0aJTnYxmf",
+    "content": "gass",
+    "author": "Confucius",
+    "tags": ["famous-quotes"],
+    "authorId": "ropvZKOXYhLr",
+    "authorSlug": "confucius",
+    "length": 4
+  },
+  {
+    "_id": "FMZiiLHfCOc",
+    "content": "Membadut teros",
+    "author": "Parker Palmer",
+    "tags": ["wisdom"],
+    "authorId": "XPDojD6THK",
+    "authorSlug": "parker-palmer",
+    "length": 14
+  },
+  {
+    "_id": "CXJ3rBlnfFa2",
+    "content": "aok",
+    "author": "George Orwell",
+    "tags": ["famous-quotes"],
+    "authorId": "YyZuhLs2-ki6",
+    "authorSlug": "george-orwell",
+    "length": 3
+  },
+  {
+    "_id": "ihnLNFx2ZolZ",
+    "content": "semangat ngab",
+    "author": "Carl Jung",
+    "tags": ["famous-quotes"],
+    "authorId": "-LYBJJujV7RL",
+    "authorSlug": "carl-jung",
+    "length": 13
+  },
+  {
+    "_id": "HFT6qcdMVVt",
+    "content": "halo ngab",
+    "author": "George Washington",
+    "tags": ["friendship"],
+    "authorId": "e2dM0CnWTjCD",
+    "authorSlug": "george-washington",
+    "length": 9
+  },
+  {
+    "_id": "r6gpkIboJCzH",
+    "content": "mengbadut",
+    "author": "Robert Fulghum",
+    "tags": ["famous-quotes"],
+    "authorId": "OMH4P98yJ7YG",
+    "authorSlug": "robert-fulghum",
+    "length": 9
+  },
+  {
+    "_id": "1BXjOAdiKUXW",
+    "content": "apa",
+    "author": "Eckhart Tolle",
+    "tags": ["famous-quotes"],
+    "authorId": "I6wUbDqsmByX",
+    "authorSlug": "eckhart-tolle",
+    "length": 3
+  },
+  {
+    "_id": "Z5HhvrGNn3_Y",
+    "content": "apaan dah",
+    "author": "Marcus Aurelius",
+    "tags": ["famous-quotes"],
+    "authorId": "zW_A5fM6XU-v",
+    "authorSlug": "marcus-aurelius",
+    "length": 9
+  },
+  {
+    "_id": "WDGgxBqNWco9",
+    "content": "ngantuk bang",
+    "author": "Oscar Wilde",
+    "tags": ["famous-quotes"],
+    "authorId": "yw5O7wULaKfx",
+    "authorSlug": "oscar-wilde",
+    "length": 12
+  },
+  {
+    "_id": "2hNPcjVsMTb",
+    "content": "yntkts",
+    "author": "Richard Bach",
+    "tags": ["famous-quotes"],
+    "authorId": "t9lNqDH0TmYo",
+    "authorSlug": "richard-bach",
+    "length": 6
+  },
+  {
+    "_id": "o8Xc7pO8Y1aD",
+    "content": "to the moon",
+    "author": "René Descartes",
+    "tags": ["famous-quotes"],
+    "authorId": "7oQmRTe0VZhD",
+    "authorSlug": "rene-descartes",
+    "length": 11
+  },
+  {
+    "_id": "T3WzgRWp0RNY",
+    "content": "optimum pride",
+    "author": "Ralph Waldo Emerson",
+    "tags": ["famous-quotes"],
+    "authorId": "xEVEeQ7m4KQT",
+    "authorSlug": "ralph-waldo-emerson",
+    "length": 13
+  },
+  {
+    "_id": "J2QOuZPIiG",
+    "content": "iyain biar cepet",
+    "author": "W. Clement Stone",
+    "tags": ["wisdom"],
+    "authorId": "esj6cyXo7w3_",
+    "authorSlug": "w-clement-stone",
+    "length": 16
+  },
+  {
+    "_id": "ALcsEfDR7FL",
+    "content": "dih",
+    "author": "Confucius",
+    "tags": ["famous-quotes"],
+    "authorId": "ropvZKOXYhLr",
+    "authorSlug": "confucius",
+    "length": 3
+  },
+  {
+    "_id": "q3SfzGZd2iGb",
+    "content": "ngopi sini bang",
+    "author": "Sigmund Freud",
+    "tags": ["famous-quotes"],
+    "authorId": "S2-JbY3NzItd",
+    "authorSlug": "sigmund-freud",
+    "length": 15
+  }
+]
